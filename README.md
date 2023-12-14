@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BackEnd Developer</h1>
 <h3 align="center">Hi, I'm Dayan Ghanbari, I'm a full-stack developer, my main specialty is back-end, and I work with the Django framework.</h3>
 
+- 📫 How to reach me **doocharbex@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/persiadev.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="persiadev.ir" height="30" width="40" /></a>
