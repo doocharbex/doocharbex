@@ -1,4 +1,4 @@
-<img style="width: 900px;" src="https://v1.pinimg.com/videos/mc/expMp4/54/21/ee/5421ee50a8c6799ffb03c1b66a42881a_t1.mp4">
+<img style="width: 900px;" src="https://i.pinimg.com/564x/bc/ec/a7/bceca769eeb573268ba10b25264b195d.jpg">
 
 <h1 align="center">Hi 👋, I'm BackEnd Developer</h1>
 <h3 align="center">Hi, I'm Dayan Ghanbari, I'm a full-stack developer, my main specialty is back-end, and I work with the Django framework.</h3>
