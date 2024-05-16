@@ -1,7 +1,7 @@
 <img style="width: 900px;" src="https://i.pinimg.com/originals/69/60/65/6960654a0d2646568e0d35e98de7f77b.gif">
 
-<h1 align="center">Hi 👋, I'm BackEnd Developer</h1>
-<h3 align="center">Hi, I'm Dayan Ghanbari, I'm a full-stack developer, my main specialty is back-end, and I work with the Django framework.</h3>
+<h1 align="center">Hi 👋, I'm Dayan Ghanbari</h1>
+<h3 align="center">BackEnd Developer</h3>
 
 - 📫 How to reach me **doocharbex@gmail.com**
 
